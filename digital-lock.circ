@@ -161,6 +161,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="Display"/>
       <a name="font" val="SansSerif bold 18"/>
     </comp>
+    <comp lib="6" loc="(224,113)" name="Text">
+      <a name="text" val="*NOTE: Make sure you have Ticks enabled (ctrl + K)"/>
+      <a name="font" val="SansSerif bolditalic 13"/>
+    </comp>
     <comp lib="5" loc="(320,340)" name="7-Segment Display">
       <a name="color" val="#0006f0"/>
       <a name="bg" val="#ffffff"/>
