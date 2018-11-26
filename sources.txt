@@ -1,0 +1,5 @@
+We got the truth table and some information on how to implement an 8-bit to 7-segment display here:
+https://www.electronics-tutorials.ws/combination/comb_6.html
+
+We found a driver file for an 8-bit to 7-segment display here:
+https://github.com/marceloboeira/logisim-7-segment-display-driver
